@@ -1,0 +1,7 @@
+Basic idea - 
+Simply used a while loop 
+used a string to store the current data of game 
+created a bool gameon to check if the game is still on 
+each time took input from the user and marked it accordingly
+have put if conditions to check if game has come to an end 
+
